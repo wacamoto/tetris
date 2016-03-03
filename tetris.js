@@ -46,7 +46,6 @@ base_block = [
 
 colors = ['#FF0000','#E70082','#FF7400','#B602D5','#01BECF','#0B42D7','#0CE800','#A8F700','#FFFD00','#FFB300'];
 
-
 //setting
 var ck = 20;
 var speed = 2;
